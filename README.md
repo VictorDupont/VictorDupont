@@ -1,6 +1,6 @@
 
   <a href="https://victordupont.com" target="_blank">
-  <img src="https://user-images.githubusercontent.com/76693227/150703638-ca2471b2-39d5-4149-911c-6547cc436223.png"/>
+  <img src="https://user-images.githubusercontent.com/76693227/150707285-9b478204-3d25-4146-bb3e-cfbfaf314951.png"/>
 </a>
 
 <h3>Profile</h3>
