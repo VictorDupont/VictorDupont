@@ -52,10 +52,6 @@
     <td><a href="https://www.linkedin.com/in/victor-dupont">@Victor Dupont</a></td>
   </tr>
   <tr>
-    <td>Codepen</td>
-    <td><a href="https://codepen.io/VictorDupont">VictorDupont</a></td>
-  </tr>
-  <tr>
     <td>Discord</td>
     <td><a href="https://discordapp.com/users/815284499747176478">Supernova#7777</a></td>
   </tr>
